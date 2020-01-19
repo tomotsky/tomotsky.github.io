@@ -1,7 +1,3 @@
-<style>
-  h1 {color: "red";}
-</style>
-
 <img src="IMG_1467.jpg" width="300">
 
 # About
@@ -15,6 +11,9 @@ N予備校でプログラミングを学習中です。
 # Skills
 - JavaScript
 - PythonとJuliaにも興味があります。
+
+- 日商簿記2級
+- 第3種電気主任技術者
 
 # Works
 - [Github](https://github.com/tomotsky)
