@@ -22,7 +22,8 @@ N予備校でプログラミングを学習中です。
 
 # Contact
 - twitter
-<a class="twitter-timeline" data-width="400" data-height="500" data-theme="dark" href="https://twitter.com/tomotsky?ref_src=twsrc%5Etfw">Tweets by tomotsky</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<br>
+<a class="twitter-timeline" data-width="300" data-height="400" data-theme="dark" href="https://twitter.com/tomotsky?ref_src=twsrc%5Etfw">Tweets by tomotsky</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 # 楽しみなゲーム
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fmzt-e9SjBw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
