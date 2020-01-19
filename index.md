@@ -1,3 +1,7 @@
+<style>
+  h1 {color: "red";}
+</style>
+
 <img src="IMG_1467.jpg" width="300">
 
 # About
