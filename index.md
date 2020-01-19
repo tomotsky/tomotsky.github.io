@@ -1,4 +1,4 @@
-![馬](IMG_1467.jpg)
+<img src="IMG_1467.jpg" width="300">
 
 # About
 N予備校でプログラミングを学習中です。
