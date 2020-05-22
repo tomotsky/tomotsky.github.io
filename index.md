@@ -1,5 +1,3 @@
-<img src="IMG_1467.jpg" width="300">
-
 # About
 N予備校でプログラミングを学習中です。
 
@@ -9,7 +7,7 @@ N予備校でプログラミングを学習中です。
 - 動くWebページ
 
 # Skills
-- JavaScript
+- JavaScript、Node.js
 - PythonとJuliaにも興味があります。
 
 - 日商簿記2級
@@ -19,11 +17,13 @@ N予備校でプログラミングを学習中です。
 - [Github](https://github.com/tomotsky)
 - 作った作品
   - [dotanimaker](https://github.com/tomotsky/dotanimaker)
+  - ノベルゲームの骨組み
   - Open processing<br>
     <iframe src="https://www.openprocessing.org/sketch/825173/embed/" width="700" height="400"></iframe>
 
 # History
 - 「N予備校 動くWebページコンテスト 2019夏」N予備校最優秀賞受賞
+  - 上記dotanimakerで受賞
 
 # Contact
 - twitter<br>
