@@ -16,7 +16,7 @@ N予備校でプログラミングを学習中です。
 - 作った作品
   - [dotanimaker](https://github.com/tomotsky/dotanimaker)
   - ノベルゲームの骨組み
-    [heroku]() [GitHub](https://github.com/tomotsky/novelge)
+    - [heroku](https://whispering-plateau-98301.herokuapp.com/) [GitHub](https://github.com/tomotsky/novelge)
 
 # History
 - 「N予備校 動くWebページコンテスト 2019夏」N予備校最優秀賞受賞
